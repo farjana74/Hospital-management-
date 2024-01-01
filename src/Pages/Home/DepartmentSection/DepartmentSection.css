@@ -1,0 +1,50 @@
+.image-background{
+    width: 60%;
+    height: 50%;
+    cursor: pointer;
+    padding-top:10px;
+}
+.div-background{
+    border:none;
+}
+.div-background:hover{
+    border:2px solid black;
+    opacity: .5;
+   
+    
+}
+.text-size{
+    font-size: 18px;
+}
+.section-description{
+    font-size: 14px;
+}
+.section-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.appointment-button{
+    color:#ffff;
+    font-size: 14px;
+    background-color: #207FDD;
+    padding: 12px 30px;
+    border-radius: 28px;
+    border:0;
+    font-weight: bold;
+}
+
+
+
+.department-button{
+    background-color: #ffff;
+    color:#207FDD;
+    border: 2px solid #207FDD;
+    border-radius: 28px;
+    font-size: 14px;
+    padding : 10px 20px !important;
+
+}
+
+/* http://newhospitalhtml.bdtask.com/images/blog_1.jpg
+http://newhospitalhtml.bdtask.com/images/blog_2.jpg
+http://newhospitalhtml.bdtask.com/images/blog_3.jpg */
